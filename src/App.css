@@ -13,11 +13,12 @@
 }
 
 .loading__page{
-    background-color: rgb(160, 82, 45);
+    background-color: #B0C4DE;
     color: white;
-    border-radius: 100%;
     opacity: 0.7;
     font-size: 20px;
+    border-radius: 1rem;
+    text-align: center;
     
 }
 
